@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Business\\Business.csproj": {}
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Business\\Business.csproj": {
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\hasre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\hasre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -97,8 +97,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj"
               }
             }
           }
@@ -112,6 +112,22 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -131,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\hasre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj": {}
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\hasre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasre\\Source\\Repos\\ReCapProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\hasre\\OneDrive\\Masaüstü\\ReCapProjectt\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
