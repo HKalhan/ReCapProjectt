@@ -10,3 +10,5 @@ C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\obj\Debug\netstandar
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\bin\Debug\netstandard2.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\DataAccess\bin\Debug\netstandard2.1\Core.pdb

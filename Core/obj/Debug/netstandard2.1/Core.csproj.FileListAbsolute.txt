@@ -1,0 +1,9 @@
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Core\obj\Debug\netstandard2.1\Core.pdb

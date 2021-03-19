@@ -58,3 +58,5 @@ C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\obj\Debug\netcoreapp3
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

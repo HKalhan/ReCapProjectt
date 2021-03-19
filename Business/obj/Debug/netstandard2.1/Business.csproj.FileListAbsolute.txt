@@ -12,3 +12,5 @@ C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.pdb
