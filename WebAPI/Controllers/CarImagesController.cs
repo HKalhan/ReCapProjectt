@@ -32,10 +32,11 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpPut("update")]
-        public IActionResult Update([FromForm(Name = "Image")] IFormFile file, [FromForm] CarImage carImage)
+        [HttpPost("update")]
+        public IActionResult Update([FromForm(Name = "Image")] IFormFile file, [FromForm(Name = ("Id"))] int Id)
         {
-            var result = _carImageService.Update(file, carImage);
+            var carImages = _carImageService.GetById(Id).Data;
+            var result = _carImageService.Update(file, carImages);
             if (result.Success)
             {
                 return Ok(result);
@@ -43,7 +44,8 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-
+        
+        [HttpPost("delete")]
         public IActionResult Delete([FromForm(Name = "Id")] int Id)
         {
             var forDelete = _carImageService.GetById(Id).Data;
