@@ -1,12 +1,12 @@
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Entities.deps.json
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Entities.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Core.pdb
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.pdb
-C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Core.dll
-C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\bin\Debug\netstandard2.1\Core.pdb
-C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete

@@ -67,3 +67,8 @@ C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll

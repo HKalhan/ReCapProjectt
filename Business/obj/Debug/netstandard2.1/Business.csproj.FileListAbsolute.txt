@@ -1,10 +1,12 @@
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Business.deps.json
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Business.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\DataAccess.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Entities.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\DataAccess.pdb
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.pdb
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
@@ -12,5 +14,3 @@ C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.dll
 C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\obj\Debug\netstandard2.1\Business.pdb
-C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.dll
-C:\Users\hasre\OneDrive\Masaüstü\ReCapProjectt\Business\bin\Debug\netstandard2.1\Core.pdb
