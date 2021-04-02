@@ -29,7 +29,7 @@ namespace Business.Concrete
 
 
         [ValidationAspect(typeof(CarImageValidator))]
-        [SecuredOperation("image.add,admin")]
+        [SecuredOperation("carimages.add,admin")]
         public IResult Add(IFormFile file, CarImage carImage)
         {
             IResult result = BusinessRules.Run(CheckCarImageLimit(carImage.CarId));
